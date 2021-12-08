@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\flutter_login_facebook\\intermediates\\res\\merged\\release\\values-v25\\values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\241de4cfa59ba97c77ccd0a01d5ef4c8\\appcompat-1.1.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\flutter_login_facebook\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v25\\values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\241de4cfa59ba97c77ccd0a01d5ef4c8\\appcompat-1.1.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\46352f015ff9c595d4e098d0bdfb68ff\\jetified-firebase-messaging-22.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "77",
+                        "endOffsets": "288"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "81",
+                        "endOffsets": "379"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\ceeeace868fed7d8baf3d4ba2108c04e\\jetified-play-services-basement-17.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "196",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "384",
+                        "endColumns": "100",
+                        "endOffsets": "480"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\firebase_messaging\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\46352f015ff9c595d4e098d0bdfb68ff\\jetified-firebase-messaging-22.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "211",
+                        "endColumns": "77",
+                        "endOffsets": "288"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "81",
+                        "endOffsets": "379"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\ceeeace868fed7d8baf3d4ba2108c04e\\jetified-play-services-basement-17.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "196",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "384",
+                        "endColumns": "100",
+                        "endOffsets": "480"
+                    }
+                }
+            ]
+        }
+    ]
+}

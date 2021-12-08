@@ -1,0 +1,2 @@
+ru/surfstudio/otp_autofill/BuildConfig.java
+ ru.surfstudio.otp_autofill.BuildConfig

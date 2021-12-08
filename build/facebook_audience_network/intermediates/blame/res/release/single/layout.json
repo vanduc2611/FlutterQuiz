@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\fb_native_banner_ad.xml",
+        "source": "D:\\AndroidStudio\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\facebook_audience_network-1.0.0-nullsafety.0\\android\\src\\main\\res\\layout\\fb_native_banner_ad.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\fb_native_ad_layout_horizontal.xml",
+        "source": "D:\\AndroidStudio\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\facebook_audience_network-1.0.0-nullsafety.0\\android\\src\\main\\res\\layout\\fb_native_ad_layout_horizontal.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\fb_native_media_item_ad.xml",
+        "source": "D:\\AndroidStudio\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\facebook_audience_network-1.0.0-nullsafety.0\\android\\src\\main\\res\\layout\\fb_native_media_item_ad.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\fb_native_ad_layout_vertical.xml",
+        "source": "D:\\AndroidStudio\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\facebook_audience_network-1.0.0-nullsafety.0\\android\\src\\main\\res\\layout\\fb_native_ad_layout_vertical.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\f103ef49be32872cadd402de16976298\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\layout\\fb_native_ad_container.xml",
+        "source": "D:\\AndroidStudio\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\facebook_audience_network-1.0.0-nullsafety.0\\android\\src\\main\\res\\layout\\fb_native_ad_container.xml"
+    }
+]

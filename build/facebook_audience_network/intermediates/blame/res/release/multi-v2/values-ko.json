@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\res\\merged\\release\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\0bff65462ee2c9363337d60c6f9808b2\\jetified-play-services-basement-11.0.4\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "179",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "285",
+                        "endColumns": "100",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LifeBook\\Elite Quiz Update v1.0.6\\Elite Quiz  v.1.0.6\\Elite Quiz Flutter Code v.1.0.6\\build\\facebook_audience_network\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\0bff65462ee2c9363337d60c6f9808b2\\jetified-play-services-basement-11.0.4\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "179",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CSKHGamota\\.gradle\\caches\\transforms-2\\files-2.1\\e7d8bcfc60a37d515acdd79cf0369f1c\\core-1.1.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "285",
+                        "endColumns": "100",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        }
+    ]
+}

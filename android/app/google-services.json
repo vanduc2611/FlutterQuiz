@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546544163609",
+    "firebase_url": "https://bazquiz-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bazquiz",
+    "storage_bucket": "bazquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546544163609:android:9032d7b33c2ac320358388",
+        "android_client_info": {
+          "package_name": "com.bookaz.quizland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546544163609-4c6png8me8sfne3nmsq5t8s8ird1d7t4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookaz.quizland",
+            "certificate_hash": "daebe6ff2aa731644f7ed3e179fa857c2c97ca76"
+          }
+        },
+        {
+          "client_id": "546544163609-07e3pst0d7eesthbgb3c4v3hobmi2v5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhON1ijoOIR3-lQh8s5Vh1LL37NBM2pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546544163609-07e3pst0d7eesthbgb3c4v3hobmi2v5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

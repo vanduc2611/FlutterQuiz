@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "ru.surfstudio.otp_autofill",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "otp_autofill-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "ru.surfstudio.otp_autofill",
+        "split": ""
+      }
+    }
+  ]
+}
